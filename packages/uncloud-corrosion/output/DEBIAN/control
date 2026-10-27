@@ -1,6 +1,6 @@
 Section: utils
 Priority: optional
-Maintainer: Dario Griffo <dariogriffo@gmail.com>
+Maintainer: Fengnan Gao <gao.fengnan@gmail.com>
 Vcs-Git: https://github.com/psviderski/corrosion
 Homepage: https://github.com/psviderski/corrosion
 Pre-Depends: adduser
